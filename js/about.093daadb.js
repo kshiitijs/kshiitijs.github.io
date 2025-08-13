@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkksh_cv"]=self["webpackChunkksh_cv"]||[]).push([[594],{5282:function(n,u,s){s.r(u),s.d(u,{default:function(){return i}});var t=s(6768);const a={class:"about"};function c(n,u){return(0,t.uX)(),(0,t.CE)("div",a,u[0]||(u[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)]))}var e=s(1241);const r={},h=(0,e.A)(r,[["render",c]]);var i=h}}]);
-//# sourceMappingURL=about.093daadb.js.map
